@@ -8,6 +8,7 @@ public class GitDemoTest {
 	public void gitDemo1Test()
 	{
 		System.out.println("Cocktail2");
+		System.out.println("Titanic");
 	}
 	
 
